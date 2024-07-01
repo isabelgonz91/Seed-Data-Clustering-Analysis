@@ -72,11 +72,3 @@ Run the provided script to perform the clustering analysis and generate the visu
 ```bash
 python clustering_analysis.py
 
-## Repository contents
-
-clustering_analysis.py: The main script containing the analysis.
-README.md: This file, providing an overview of the project.
-
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
