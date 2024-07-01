@@ -67,8 +67,5 @@ To run the analysis, ensure you have the required libraries installed:
 pip install pandas numpy scikit-learn matplotlib seaborn requests
 
 
-Run the provided script to perform the clustering analysis and generate the visualizations.
 
-```bash
-python clustering_analysis.py
 
