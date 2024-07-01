@@ -66,3 +66,17 @@ To run the analysis, ensure you have the required libraries installed:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn requests
 
+
+Run the provided script to perform the clustering analysis and generate the visualizations.
+
+```bash
+python clustering_analysis.py
+
+## Repository contents
+
+clustering_analysis.py: The main script containing the analysis.
+README.md: This file, providing an overview of the project.
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
